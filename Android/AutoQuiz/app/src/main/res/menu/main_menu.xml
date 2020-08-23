@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/menu_option0"></item>
+
+
+    <item android:title="@string/menu_option2"
+        android:id="@+id/menu_indicatoare"
+        ></item>
+    <item android:title="@string/menu_option5"
+        android:id="@+id/menu_intrebari"
+        ></item>
+    <item android:title="@string/menu_option1"
+        android:id="@+id/menu_progres"
+        ></item>
+    <item android:title="@string/menu_option6"
+        android:id="@+id/menu_map"
+        ></item>
+
+    <item android:title="@string/menu_option7"
+    android:id="@+id/menu_chart"
+    ></item>
+    <item android:title="@string/menu_option4"
+        android:id="@+id/menu_plus"
+        android:icon="@android:drawable/ic_input_add"
+        app:showAsAction="always">
+
+    </item>
+
+
+
+</menu>

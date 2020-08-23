@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    tools:context=".ui.main.Intrebari">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp">
+
+
+            <!--    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="40sp"
+        android:text="@string/intr" /> -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="@string/intrr"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="@string/intr_recent"
+            android:textStyle="bold" />
+        <ListView
+            android:id="@+id/list_view_intrebari"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </ListView>
+        <Button
+            android:id="@+id/save_q_db"
+            style="@style/stil_buton"
+            android:background="@drawable/round_corners"
+            android:backgroundTint="@android:color/background_light"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="@string/insert"
+            android:textColor="#1224C2" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="@string/intr_db"
+            android:textStyle="bold" />
+
+        <ListView
+            android:id="@+id/list_view_intrebari_db"
+            android:layout_width="wrap_content"
+            android:layout_height="400dp">
+
+        </ListView>
+
+    </LinearLayout>
+
+
+
+</FrameLayout>

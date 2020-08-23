@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">AutoQuiz</string>
+    <string name="confirm">Confirma!</string>
+    <string name="op3">Optiunea3</string>
+    <string name="op2">Optiunea 2</string>
+    <string name="op1">Optiunea 1</string>
+    <string name="text">Text intrebare</string>
+    <string name="time">30:00</string>
+    <string name="start">Start QUIZ!</string>
+    <string name="altele">Mai mult.... </string>
+    <string name="bun">Bun venit!</string>
+    <string name="punctaj">Punctaj: </string>
+    <string name="menu_option4">Plus</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_option2">Indicatoare</string>
+    <string name="menu_option1">ReportOne</string>
+    <string name="menu_option0">Home</string>
+    <string name="add_intrebare">Adauga intrebarea..</string>
+    <string name="add_text">Adauga textul intrebarii...</string>
+    <string name="introduceti_A">Adauga raspunsul A...</string>
+    <string name="introduceti_B">Adauga raspunsul B...</string>
+    <string name="introduceti_C">Adauga raspunsul C...</string>
+    <string name="btn_A">A</string>
+    <string name="btn_B">B</string>
+    <string name="btn_C">C</string>
+    <string name="categorytype1">Usor</string>
+    <string name="categorytype2">Mediu</string>
+    <string name="categorytype3">Greu</string>
+    <string name="btn_confirm">Confirma!</string>
+
+    <string name="add_intr_text_error_message">Introduceti corect textul intrebarii</string>
+    <string name="add_intr_text2_error_message">Introduceti corect textul pentru raspunsul A</string>
+    <string name="add_intr_text3_error_message">Introduceti corect textul pentru raspunsul B</string>
+    <string name="add_intr_text4_error_message">Introduceti corect textul pentru raspunsul C</string>
+    <string name="Pagina">Pagina Principala</string>
+    <string name="menu_option5">Intrebari</string>
+    <string name="cat">Categorie:</string>
+    <string name="rap">Rapoarte intrebari</string>
+    <string name="intr">Executare comenzi DML pe baza de date faza 2</string>
+    <string name="intrr">Lista intrebari</string>
+    <string name="Ind">Indicatoare rutiere</string>
+    <string name="text2">ID TEXT A B C NR CAT</string>
+    <string name="ID"> ID </string>
+    <string name="I_text"> TEXT </string>
+    <string name="A_text"> A </string>
+    <string name="B_text"> B </string>
+    <string name="C_text"> C </string>
+    <string name="ras_text"> Nr. ras. corect </string>
+    <string name="ID_cat_text"> ID Categorie </string>
+    <string name="add_intr_text5_error_message">Selectati raspunsul corect!</string>
+    <string name="intrebariJson">Top intrebari grele</string>
+    <string name="top">Top Questions</string>
+    <string name="alege">\"Alege un raspuns!\"</string>
+    <string name="confirma">Confirma!</string>
+    <string name="in">Intrebarea:</string>
+    <string name="punct">Punctaj:</string>
+    <string name="acorect">Raspunsul A este cel corect!</string>
+    <string name="bcorect">Raspunsul B este cel corect!</string>
+    <string name="ccorect">Raspunsul C este cel corect!</string>
+    <string name="next">Urmatoarea intrebare!</string>
+    <string name="fin">Termina testul!</string>
+    <string name="fini">FINISH</string>
+
+    <string name="back">Apasa de doua ori pentru a iesi!</string>
+    <string name="max">Punctaj Maxim:</string>
+    <string name="home">home</string>
+    <string name="item1">Indicatoare menu clicked!</string>
+    <string name="item2">Progres menu clicked!</string>
+    <string name="item3">Plus menu clicked!</string>
+    <string name="item4">Intrebari menu clicked!</string>
+    <string name="intr_recent">Intrebari adaugate recent:</string>
+    <string name="intr_db">Intrebari din baza de date</string>
+    <string name="insert">Insert</string>
+    <string name="menu_delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="del">Item deleted!</string>
+    <string name="dell">Not deleted!</string>
+    <string name="updat">Item updated!</string>
+    <string name="updatee">Not updated!</string>
+    <string name="ins">Inserted in db!</string>
+    <string name="salv">Salveaza csv</string>
+    <string name="rap2">Raport 2-Lista intrebari al caror raspuns este A</string>
+    <string name="rap1">Raport 1-Lista intrebari usoare</string>
+    <string name="salvv">Salveaza txt</string>
+    <string name="txtsave">\"Go to DeviceExplorer/Saved to data/files\"</string>
+    <string name="item5">\"Maps\"</string>
+    <string name="item6">\"Charts\"</string>
+    <string name="menu_option6">ReportTwo</string>
+    <string name="menu_option7">Charts</string>
+    <string name="Charts">Charts</string>
+    <string name="r">Numarul de intrebari in functie de categorii</string>
+
+
+</resources>

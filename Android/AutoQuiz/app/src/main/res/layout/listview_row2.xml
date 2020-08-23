@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/round_corners"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textview_id_intr"
+            tools:ignore="ContentDescription"
+            style="@style/stil_textview_listview2">
+        </TextView>
+        <TextView
+            android:id="@+id/textview_text_intrb"
+            tools:ignore="ContentDescription"
+            style="@style/stil_textview_listview2">
+        </TextView>
+
+    </LinearLayout>
+
+    <TextView
+        tools:ignore="ContentDescription"
+        android:id="@+id/textview_A_intr"
+        style="@style/stil_textview_listview2">
+    </TextView>
+    <TextView
+        android:id="@+id/textview_B_intr"
+        tools:ignore="ContentDescription"
+        style="@style/stil_textview_listview2">
+    </TextView>
+    <TextView
+        android:id="@+id/textview_C_intr"
+        tools:ignore="ContentDescription"
+        style="@style/stil_textview_listview2">
+    </TextView>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textview_rasp_intr"
+            tools:ignore="ContentDescription"
+            style="@style/stil_textview_listview2">
+        </TextView>
+        <TextView
+            android:id="@+id/textview_cat_intr"
+            tools:ignore="ContentDescription"
+            style="@style/stil_textview_listview2">
+        </TextView>
+
+    </LinearLayout>
+
+</LinearLayout>
